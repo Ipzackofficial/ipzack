@@ -52,24 +52,24 @@
 </head>
 <body class="antialiased selection:bg-accentBlue selection:text-white">
 
-    <nav class="sticky top-0 z-50 bg-brandDark/80 backdrop-blur-xl border-b border-white/10 px-6 md:px-12 py-4 flex justify-between items-center">
+<nav class="sticky top-0 z-50 bg-brandDark/80 backdrop-blur-xl border-b border-white/10 px-6 md:px-12 py-4 flex justify-between items-center">
         <div class="flex items-center gap-2">
             <span class="text-xl font-extrabold tracking-tight text-white">IP<span class="text-accentBlue">ZACK</span></span>
         </div>
         
-        <div class="hidden lg:flex items-center space-x-8 text-sm font-medium text-textMuted">
+<div class="hidden lg:flex items-center space-x-8 text-sm font-medium text-textMuted">
             <a href="#about" class="hover:text-white transition-colors">About the Artist</a>
             <a href="#genre" class="hover:text-white transition-colors">The Zubakaya Genre</a>
             <a href="#vocal-codes" class="hover:text-white transition-colors">Vocal Architecture</a>
             <a href="#studio-alliance" class="hover:text-white transition-colors">Production Core</a>
         </div>
         
-        <a href="#contact" class="bg-accentBlue text-white font-semibold text-xs uppercase tracking-wider px-5 py-2.5 rounded-full hover:bg-opacity-90 transition-all shadow-md shadow-accentBlue/20">
+<a href="#contact" class="bg-accentBlue text-white font-semibold text-xs uppercase tracking-wider px-5 py-2.5 rounded-full hover:bg-opacity-90 transition-all shadow-md shadow-accentBlue/20">
             Get In Touch
         </a>
     </nav>
 
-    <header class="min-h-[85vh] flex flex-col justify-center px-6 md:px-12 max-w-7xl mx-auto pt-8 pb-16">
+<header class="min-h-[85vh] flex flex-col justify-center px-6 md:px-12 max-w-7xl mx-auto pt-8 pb-16">
         <div class="grid lg:grid-cols-12 gap-12 items-center w-full">
             <div class="lg:col-span-7 space-y-6">
                 <div class="inline-flex items-center gap-2 px-3 py-1 bg-accentBlue/10 border border-accentBlue/20 rounded-full text-xs font-semibold tracking-wide text-accentBlue">
@@ -92,10 +92,10 @@
                 </div>
             </div>
 
-            <div class="lg:col-span-5 bg-brandCard border border-white/5 p-8 rounded-2xl shadow-xl premium-glow space-y-5">
+<div class="lg:col-span-5 bg-brandCard border border-white/5 p-8 rounded-2xl shadow-xl premium-glow space-y-5">
                 <h3 class="text-lg font-bold text-white tracking-tight border-b border-white/10 pb-3">Quick Profile Summary</h3>
                 
-                <div class="space-y-3.5 text-sm">
+<div class="space-y-3.5 text-sm">
                     <div class="flex justify-between items-center">
                         <span class="text-textMuted">Pioneer Artist:</span>
                         <span class="text-white font-semibold">Ip Zack</span>
@@ -118,7 +118,7 @@
                     </div>
                 </div>
                 
-                <div class="p-4 bg-white/5 rounded-xl border border-white/5 text-xs text-textMuted leading-relaxed">
+<div class="p-4 bg-white/5 rounded-xl border border-white/5 text-xs text-textMuted leading-relaxed">
                     <span class="text-accentBlue font-bold block mb-1">Core Identity Note:</span>
                     This space represents complete artistic independence. Every composition is created to offer listeners rich structural clarity and raw human emotion, completely detached from repetitive commercial radio requirements.
                 </div>
@@ -126,7 +126,7 @@
         </div>
     </header>
 
-    <section id="about" class="py-24 px-6 md:px-12 max-w-7xl mx-auto border-t border-white/10">
+<section id="about" class="py-24 px-6 md:px-12 max-w-7xl mx-auto border-t border-white/10">
         <div class="grid lg:grid-cols-12 gap-12 items-start">
             <div class="lg:col-span-4 lg:sticky lg:top-28 space-y-3">
                 <span class="text-xs font-bold text-accentBlue uppercase tracking-wider block">01 // The Origin Story</span>
@@ -135,7 +135,7 @@
                 <div class="w-12 h-1 bg-accentBlue rounded-full mt-2"></div>
             </div>
             
-            <div class="lg:col-span-8 space-y-6 text-textMuted text-base leading-relaxed">
+<div class="lg:col-span-8 space-y-6 text-textMuted text-base leading-relaxed">
                 <div class="bg-brandCard/50 border border-white/5 p-8 rounded-2xl premium-glow">
                     <h3 class="text-xl font-bold text-white mb-3 tracking-tight">Applying Technology Logic to Creative Audio</h3>
                     <p class="mb-4">
@@ -146,7 +146,7 @@
                     </p>
                 </div>
 
-                <div class="bg-brandCard/50 border-l-4 border-l-accentBlue border-y border-r border-white/5 p-8 rounded-2xl premium-glow">
+<div class="bg-brandCard/50 border-l-4 border-l-accentBlue border-y border-r border-white/5 p-8 rounded-2xl premium-glow">
                     <h3 class="text-xl font-bold text-white mb-3 tracking-tight">Weathering Local Industry Backlash</h3>
                     <p class="mb-4">
                         Establishing an entirely new sonic lane meant surviving significant industry resistance. During the foundational periods of sketching out the Zubakaya blueprint, local peers, commercial tastemakers, and traditional pop producers explicitly projected failure onto his career path. Behind his back, critics consistently dismissed his bold choice of rhythms, heavy audio textures, and open refusal to rely on predictable, temporary radio formulas.
@@ -156,7 +156,7 @@
                     </p>
                 </div>
 
-                <div class="bg-brandCard/50 border border-white/5 p-8 rounded-2xl premium-glow">
+<div class="bg-brandCard/50 border border-white/5 p-8 rounded-2xl premium-glow">
                     <h3 class="text-xl font-bold text-white mb-3 tracking-tight">The "Yard Man" Workspace Isolation Protocol</h3>
                     <p class="mb-4">
                         Guided by the personal values and cultural loyalty of an African <strong class="text-accentGold font-semibold">"Yard Man,"</strong> Ip Zack prioritizes permanent artistic legacy over short-term market popularity. He treats his art as an archival creative channel that requires complete respect and protection. 
@@ -169,7 +169,7 @@
         </div>
     </section>
 
-    <section id="genre" class="py-24 bg-brandCard border-t border-b border-white/10 px-6 md:px-12">
+<section id="genre" class="py-24 bg-brandCard border-t border-b border-white/10 px-6 md:px-12">
         <div class="max-w-7xl mx-auto">
             <div class="mb-16 flex flex-col md:flex-row justify-between items-start md:items-end gap-6">
                 <div class="space-y-2">
@@ -181,9 +181,9 @@
                 </p>
             </div>
 
-            <div class="grid md:grid-cols-12 gap-6 text-sm">
+<div class="grid md:grid-cols-12 gap-6 text-sm">
                 
-                <div class="md:col-span-7 bg-brandDark border border-white/5 p-8 rounded-2xl flex flex-col justify-between group hover:border-accentBlue/30 transition-all">
+<div class="md:col-span-7 bg-brandDark border border-white/5 p-8 rounded-2xl flex flex-col justify-between group hover:border-accentBlue/30 transition-all">
                     <div>
                         <span class="text-accentBlue font-bold tracking-wider text-xs block mb-3 uppercase">Pillar 01 / Structural Foundation</span>
                         <h3 class="text-2xl font-bold text-white mb-4 tracking-tight group-hover:text-accentBlue transition-colors">Dancehall Sub-Bass Gravity</h3>
@@ -193,7 +193,7 @@
                     </p>
                 </div>
 
-                <div class="md:col-span-5 bg-brandDark border border-white/5 p-8 rounded-2xl flex flex-col justify-between group hover:border-accentGold/30 transition-all">
+<div class="md:col-span-5 bg-brandDark border border-white/5 p-8 rounded-2xl flex flex-col justify-between group hover:border-accentGold/30 transition-all">
                     <div>
                         <span class="text-accentGold font-bold tracking-wider text-xs block mb-3 uppercase">Pillar 02 / Percussive Movement</span>
                         <h3 class="text-2xl font-bold text-white mb-4 tracking-tight group-hover:text-accentGold transition-colors">Syncopated Live Tribal Drums</h3>
@@ -203,7 +203,7 @@
                     </p>
                 </div>
 
-                <div class="md:col-span-5 lg:col-span-4 bg-brandDark border border-white/5 p-8 rounded-2xl flex flex-col justify-between hover:border-white/20 transition-all">
+<div class="md:col-span-5 lg:col-span-4 bg-brandDark border border-white/5 p-8 rounded-2xl flex flex-col justify-between hover:border-white/20 transition-all">
                     <div>
                         <span class="text-textMuted font-bold tracking-wider text-xs block mb-3 uppercase">Pillar 03 / Melodic Architecture</span>
                         <h3 class="text-xl font-bold text-white mb-3 tracking-tight">Modern Jazz Guitar Strings</h3>
@@ -213,7 +213,7 @@
                     </p>
                 </div>
 
-                <div class="md:col-span-7 lg:col-span-8 bg-brandDark border border-accentBlue/20 p-8 rounded-2xl flex flex-col justify-between relative overflow-hidden">
+<div class="md:col-span-7 lg:col-span-8 bg-brandDark border border-accentBlue/20 p-8 rounded-2xl flex flex-col justify-between relative overflow-hidden">
                     <div>
                         <span class="text-accentBlue font-bold tracking-wider text-xs block mb-3 uppercase">Pillar 04 / Signature Innovation</span>
                         <h3 class="text-2xl font-bold text-white mb-4 tracking-tight">The Vacuum Rest Mechanism</h3>
@@ -226,7 +226,7 @@
         </div>
     </section>
 
-    <section id="vocal-codes" class="py-24 px-6 md:px-12 max-w-7xl mx-auto">
+<section id="vocal-codes" class="py-24 px-6 md:px-12 max-w-7xl mx-auto">
         <div class="grid lg:grid-cols-12 gap-12 items-center">
             <div class="lg:col-span-5 space-y-5">
                 <span class="text-xs font-bold text-accentBlue uppercase tracking-wider block">03 // Performance Framework</span>
@@ -235,7 +235,7 @@
                     A highly strategic vocal delivery system engineered to balance broad global appeal with deep underground credibility. Phrasing layout parameters move completely away from simple on-beat vocal tracking, instead employing a calculated <strong class="text-white font-medium">"Behind-the-Beat" micro-timing framework</strong>. Vocal lines trail slightly behind the downbeats to create a confident, relaxed pocket before locking down tightly right on top of the conga snap lines.
                 </p>
                 
-                <div class="p-5 bg-brandCard border border-white/5 rounded-xl space-y-2">
+<div class="p-5 bg-brandCard border border-white/5 rounded-xl space-y-2">
                     <span class="text-accentGold font-bold text-xs tracking-wider block uppercase">Linguistic Accessibility Formula:</span>
                     <p class="text-textMuted text-xs font-normal leading-relaxed">
                         To maintain smooth cross-border streaming potential, all vocal slang metrics prioritize broad regional clarity. Lyrics intentionally avoid highly localized urban expressions that risk isolating wider listeners, allowing the storytelling to travel fluidly across international sound networks.
@@ -243,25 +243,25 @@
                 </div>
             </div>
 
-            <div class="lg:col-span-7 grid sm:grid-cols-2 gap-4 text-xs">
+<div class="lg:col-span-7 grid sm:grid-cols-2 gap-4 text-xs">
                 <div class="p-6 bg-brandCard border border-white/5 rounded-xl">
                     <span class="text-accentBlue font-bold block mb-2 font-mono">CODE_LAYER_01</span>
                     <h4 class="text-base font-bold text-white mb-2 tracking-tight">Jamaican Patois Fusions</h4>
                     <p class="text-textMuted font-sans leading-relaxed">Deploys significant vocal weight, commanding performance presence, and traditional sound-system styling directly into the groove tracks.</p>
                 </div>
                 
-                <div class="p-6 bg-brandCard border border-white/5 rounded-xl">
+<div class="p-6 bg-brandCard border border-white/5 rounded-xl">
                     <span class="text-accentGold font-bold block mb-2 font-mono">CODE_LAYER_02</span>
                     <h4 class="text-base font-bold text-white mb-2 tracking-tight">Yoruba & Pidgin Inflections</h4>
                     <p class="text-textMuted font-sans leading-relaxed">Blends West African dynamic vocal character and tonal regional phrasing to craft beautiful, multi-layered melodic counter-melodies.</p>
                 </div>
 
-                <div class="p-6 bg-brandCard border border-white/5 rounded-xl">
+<div class="p-6 bg-brandCard border border-white/5 rounded-xl">
                     <span class="text-textMuted font-bold block mb-2 font-mono">CODE_LAYER_03</span>
                     <h4 class="text-base font-bold text-white mb-2 tracking-tight">Swahili Slang Integration</h4>
                     <p class="text-textMuted font-sans leading-relaxed">Anchors the lyrical themes directly to modern East African city life, providing raw authenticity and close neighborhood connectivity.</p> </div> <div class="p-6 bg-brandCard border border-accentBlue/20 rounded-xl"> <span class="text-accentBlue font-bold block mb-2 font-mono">CODE_LAYER_04</span> <h4 class="text-base font-bold text-white mb-2 tracking-tight">Ghetto Yut Universal Anthems</h4> <p class="text-textMuted font-sans leading-relaxed">Focuses on stories detailing perseverance, street survival, and personal triumph, keeping themes deeply identifiable across any global urban landscape.</p> </div> </div> </div> </section> <section id="studio-alliance" class="py-24 bg-brandCard border-t border-b border-white/10 px-6 md:px-12"> <div class="max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 items-center"> <div class="space-y-5"> <span class="text-xs font-bold text-accentGold uppercase tracking-wider block">04 // Engineering Infrastructure</span> <h2 class="text-3xl md:text-4xl font-extrabold tracking-tight text-white leading-tight">The Centralized Production Alliance</h2> <p class="text-textMuted text-base leading-relaxed"> The creative control, audio tracking, and arrangement decisions of the Zubakaya sound system catalogue are managed completely within a closed studio environment. Every track mix matrix, sonic boundary, and final output calibration is engineered in direct partnership with chief working producer <strong class="text-white font-medium">Dankey pro</strong>. </p> <p class="text-textMuted text-base leading-relaxed"> By strictly maintaining this trusted, two-man professional studio workspace, the team entirely bypasses generic factory loop packs, standard commercial sample lines, and transient algorithmic plug-in choices—protecting the absolute cultural authenticity of the final master file. </p> </div> <div class="border border-white/5 bg-brandDark p-8 rounded-2xl shadow-xl premium-glow space-y-4 text-sm"> <h4 class="text-accentBlue font-bold tracking-wider uppercase text-xs">// Certified Studio Credentials</h4> <div class="w-12 h-0.5 bg-accentBlue rounded-full"></div> <div class="flex justify-between items-center border-b border-white/5 py-2"> <span class="text-textMuted">Chief Recording Engineer:</span> <span class="text-white font-semibold">Dankey Pro</span> </div> <div class="flex justify-between items-center border-b border-white/5 py-2"> <span class="text-textMuted">Studio Access Protocol:</span> <span class="text-white font-medium">Closed Workspace / Independent Masterclass Framework</span> </div> <div class="flex justify-between items-center py-2"> <span class="text-textMuted">Export Architecture:</span> <span class="text-accentGold font-bold">Uncompressed Sovereign WAV (24-Bit Linear)</span> </div> </div> </div> </section> <section class="py-24 px-6 md:px-12 max-w-7xl mx-auto"> <div class="mb-12 flex flex-col md:flex-row md:items-end justify-between gap-4"> <div class="space-y-2"> <span class="text-xs font-bold text-accentBlue uppercase tracking-wider block">05 // Stereo Listening Deck</span> <h2 class="text-3xl md:text-4xl font-extrabold tracking-tight text-white">Audio Core Repository</h2> </div> <span class="text-textMuted text-xs tracking-wider border border-white/10 rounded-full px-4 py-2 bg-white/5"> Stream Verified Blueprint Mixes Below </span> </div>
 
-        <div class="border border-white/5 bg-brandCard p-6 md:p-8 rounded-2xl shadow-xl space-y-6">
+<div class="border border-white/5 bg-brandCard p-6 md:p-8 rounded-2xl shadow-xl space-y-6">
             <div class="flex flex-col xl:flex-row items-center justify-between p-6 bg-brandDark rounded-xl border border-white/5 gap-6">
                 <div class="flex items-center gap-5 w-full xl:w-auto">
                     <div class="w-14 h-14 bg-accentBlue text-white rounded-full flex items-center justify-center font-bold text-2xl select-none cursor-pointer hover:scale-105 transition-all shadow-md shadow-accentBlue/20 pl-1">
@@ -280,7 +280,7 @@
                 </div>
             </div>
 
-            <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 text-center text-xs font-bold tracking-wide">
+<div class="grid grid-cols-2 lg:grid-cols-4 gap-4 text-center text-xs font-bold tracking-wide">
                 <a href="#" class="border border-white/5 py-4 rounded-xl bg-brandDark/50 hover:bg-accentBlue hover:text-white hover:border-accentBlue transition-all">SPOTIFY LINK</a>
                 <a href="#" class="border border-white/5 py-4 rounded-xl bg-brandDark/50 hover:bg-accentGold hover:text-brandDark hover:border-accentGold transition-all">APPLE MUSIC</a>
                 <a href="#" class="border border-white/5 py-4 rounded-xl bg-brandDark/50 hover:bg-white hover:text-brandDark hover:border-white transition-all">YOUTUBE MUSIC</a>
@@ -330,14 +330,14 @@ t-center space-y-3 mb-16">
                     <textarea rows="6" class="w-full bg-brandDark border border-white/10 rounded-xl p-4 text-white focus:outline-none focus:border-accentBlue transition-colors font-medium text-sm leading-relaxed" placeholder="Elaborate extensively on project specifications, acoustic setting, and timeline configurations details directly here..." required></textarea>
                 </div>
                 
-                <button type="submit" class="w-full bg-accentBlue text-white font-bold uppercase text-xs tracking-widest py-4 rounded-xl hover:bg-opacity-90 hover:shadow-lg hover:shadow-accentBlue/20 transition-all duration-300">
+<button type="submit" class="w-full bg-accentBlue text-white font-bold uppercase text-xs tracking-widest py-4 rounded-xl hover:bg-opacity-90 hover:shadow-lg hover:shadow-accentBlue/20 transition-all duration-300">
                     Transmit Secure Data Packet
                 </button>
             </form>
         </div>
     </section>
 
-    <footer class="border-t border-white/10 py-12 bg-brandDark text-center text-xs text-textMuted space-y-2 relative z-10">
+<footer class="border-t border-white/10 py-12 bg-brandDark text-center text-xs text-textMuted space-y-2 relative z-10">
         <div class="text-white font-bold tracking-tight text-sm">© 2026 Zubakaya Engine Systems &bull; Ip Zack Music Architecture</div>
         <div class="text-xs max-w-md mx-auto text-textMuted/70">
             Preserving structural audio density and cultural loyalty. Completely isolating unique creative research spaces from seasonal industry trends.

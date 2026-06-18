@@ -1,7 +1,8 @@
-
+~~~
 layout: default
 title: Ip Zack | Pioneer of Zubakaya
 description: Official portal for Ip Zack, the architect of the Zubakaya sonic movement.
+~~~
 
 # Permanence Over Seasonal Trends.
 

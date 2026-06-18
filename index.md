@@ -52,6 +52,5 @@ Every track mix matrix, sonic boundary, and final output is engineered in direct
 ## 05 // Get In Touch
 *For global sound-system curation, festival staging, and technical collaboration.*
 
-[**Transmit Secure Data Packet**](mailto:your-email@example.com)
+[**Transmit Secure Data Packet**](mailto:brianmatara5@gmail.com)
 
-*(Note: Replace the link above with your actual contact email or a link to a form service like Formspree)*

@@ -39,7 +39,7 @@ To build or update the site locally before deployment, follow these system proto
 
 ## 05 // Contact & Transmission
 For festival bookings, collaborations, or secure data packets:
-**Email:** brianmatara5@gmail.com
+**Email:** trustmezack@gmail.com
 
 ---
 
